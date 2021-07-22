@@ -69,5 +69,5 @@ struct NumberPrinter {
  
 ```
 
-check my github link for playground version  https://github.com/hgtlzyc/DevMountainStudy/blob/main/PlayGround.playground/Pages/NumberPrinter.xcplaygroundpage/Contents.swift
+check link for playground version  https://github.com/hgtlzyc/DevMountainStudy/blob/main/PlayGround.playground/Pages/NumberPrinter.xcplaygroundpage/Contents.swift
  
