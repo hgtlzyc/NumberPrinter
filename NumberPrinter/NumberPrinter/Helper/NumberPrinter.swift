@@ -20,11 +20,13 @@ struct NumberPrinter {
     }
 
     static func generateNumString(_ int: Int) -> String {
+        //convert to 2d string array like [ [components for num1], [components for num2] ...]
         let str2DArr = "\(int)".reduce( into: [ [String] ]() ) {
             $0.append( strArrayFor($1).map{$0.rawValue} )
         }
         
         return (0...4).reduce(into: [String]() ) { sum, next in
+            //tempArray will be like [all the first elements] or [all the 2nd elements] ...
             var tempArr = [String]()
             str2DArr.forEach { strArray in
                 tempArr.append(strArray[next])
