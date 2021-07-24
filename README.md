@@ -3,6 +3,24 @@
 ![](https://github.com/hgtlzyc/NumberPrinter/blob/e3c97c30f9e5e29276a877744c8291d1048454aa/NumberPrinterDemo.gif)
 
 
+###The Challenge
+take an Int with multiple digits and print each number in the same fashion on a single Line.
+
+For example, if you pass 257 the console might look something like this:
+
+ 
+
+ ---          ---         ---
+
+      |     |                 |
+
+ ---         ---              |
+
+|                |            |
+
+ ---         ---              |
+
+
 My solution for the code challenge (BD):
 ```swift
 import Foundation
