@@ -89,5 +89,5 @@ struct NumberPrinter {
  
 ```
 
-check link for playground version  https://github.com/hgtlzyc/DevMountainStudy/blob/main/PlayGround.playground/Pages/NumberPrinter.xcplaygroundpage/Contents.swift
+check link for playground version [Link](https://github.com/hgtlzyc/DevMountainStudy/blob/main/PlayGround.playground/Pages/NumberPrinter.xcplaygroundpage/Contents.swift) 
  
