@@ -1,4 +1,6 @@
 # NumberPrinter
+[Go To My Resume](https://github.com/hgtlzyc/Resume#number-printer-github-repo)
+<br />
 
 ![](https://github.com/hgtlzyc/NumberPrinter/blob/e3c97c30f9e5e29276a877744c8291d1048454aa/NumberPrinterDemo.gif)
 
